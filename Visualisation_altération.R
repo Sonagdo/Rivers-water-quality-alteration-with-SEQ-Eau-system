@@ -1,3 +1,4 @@
+# Installer les libraries nécessaires
 library(shiny)
 library(tidyverse)
 library(ggplot2)
